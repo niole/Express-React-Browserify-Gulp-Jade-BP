@@ -1,7 +1,7 @@
 {
-  "name": "RenderMarkdownWithReact-express-browserify-gulp-jade-tutorial",
+  "name": "boiler plate express gulp browserify react es5",
   "version": "1.0.0",
-  "description": "Render markdown with ReactJS using the express framework, browserify for dependency resolution, the gulp build system, and jade templateing.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/www"
@@ -27,12 +27,8 @@
     "dotenv": "^1.1.0",
     "express": "^4.12.3",
     "jade": "^1.9.2",
-    "materialize-css": "^0.96.1",
-    "mongodb": "^1.4.35",
-    "mongoskin": "^1.4.13",
     "morgan": "^1.5.2",
     "react": "^0.13.2",
-    "serve-favicon": "^2.2.0",
-    "showdown": "^0.5.0"
+    "serve-favicon": "^2.2.0"
   }
 }
