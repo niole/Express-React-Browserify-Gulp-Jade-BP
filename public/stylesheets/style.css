@@ -1,0 +1,5 @@
+.text-result {
+  max-width: 500px;
+  min-height: 500px;
+  border: 1px solid black;
+}

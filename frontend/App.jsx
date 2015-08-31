@@ -1,9 +1,7 @@
 "use strict";
-/*global React*/
 
 var React = require('react');
-var Test = require('./Test.jsx');
+var ArticleGetter = require('./ArticleGetter.jsx');
+var $ = require('jquery');
 
-var App = React.render( <Test/>, $('#container')[0]);
-
-module.exports = App;
+var App = React.render( <ArticleGetter/>, $('#container')[0]);
