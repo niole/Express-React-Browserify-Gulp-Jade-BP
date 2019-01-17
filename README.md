@@ -7,7 +7,7 @@
     ```
     -bin
     -frontend
-    -public
+    -publicsdfg gfsddfg gfdsdfg 
       -js
       -src
       -stylesheets
